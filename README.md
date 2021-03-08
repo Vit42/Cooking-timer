@@ -1,1 +1,1 @@
-# Egg-timer
+# Simple timer to boil eggs
